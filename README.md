@@ -1,15 +1,3 @@
-# Python UV Starter
+# Python - FIAP (1º Semestre)
 
-This is a simple Python [uv](https://docs.astral.uv) starter in Firebase Studio.
-
-## Running
-
-```
-uv run main.py
-```
-
-## Add dependencies
-
-```
-uv add ruff
-```
+Este repositório é dedicado às atividades, exercícios e projetos desenvolvidos na disciplina de **Python** durante o **1º semestre da FIAP**.# AulasPythonFiap
