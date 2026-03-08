@@ -1,7 +1,7 @@
 [project]
-name = "myapp"
-version = "0.1.0"
-description = "Add your description here"
+name = "PythonFiapPrimeiroSemestre"
+version = "1.0.0"
+description = "Exercícios e atividades da disciplina de Python da FIAP (1º semestre)."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
